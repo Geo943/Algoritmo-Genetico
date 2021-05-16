@@ -1,0 +1,12 @@
+Geoffrey Hernandez 7090-14-3807
+
+1. Instalar las siguientes Librerias
+
+conda install python-graphviz
+pip install pysimplegui
+
+2. Ejecutar en Spyder el archivo ventana.py este levantara la ventana de ingreso de aristas.
+
+3. luego de ingresar las aristas presionar el boto Generar PDF de Grafos
+
+Nota> en el archivo aristas - Ejemplo se encuentra un ejemplo de como ingresar las aristas.
